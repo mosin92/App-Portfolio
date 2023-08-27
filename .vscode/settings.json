@@ -1,0 +1,11 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "Addedtocart",
+        "Addtocart",
+        "dont",
+        "miblanchard"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "editor.formatOnSave": true
+}

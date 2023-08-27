@@ -1,0 +1,22 @@
+const AppColors = {
+  primary: '#F9ECDC',
+  white: '#ffffff',
+  darkBlue: '#1C2D41',
+  blue: '#0BAFFF',
+  blue1: '#0184C4',
+  red: 'red',
+  transparent: 'transparent',
+  linearColorOne: '#F9ECDC',
+  linearColorTwo: '#F9ECDC',
+  gray1: '#EEE9F9',
+  gray2: '#DADADA',
+  gray3: '#c9c9c9',
+  brown: '#9F9F9F',
+  orange: '#FF9529',
+  lightGray: '#f3f4f5',
+  blue50: '#253851',
+  white30: '#fbf3f0',
+  blue90: '#e4f4fc',
+  blue63: '#3b4c63',
+};
+export default AppColors;
